@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: app-node20-github-dedicatus
+  AZURE_WEBAPP_NAME: app-node20-githib-dedicatus
   NODE_VERSION: "20.x"
 
 jobs:
